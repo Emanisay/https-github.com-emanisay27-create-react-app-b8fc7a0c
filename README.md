@@ -17,7 +17,7 @@ To create but i pass i think hehehe 2 check
 That i dint pass is to create domin and the
 Last is to deploy i dont know how to do it,
 I read and experement on there repository
-Bcos they sain if you want to crain a domin
+Bcos they said if you want to create a domin
 Putch on there envi file i dont now why
 I cannot stop trying to put my file in 
 There envi file. I stop and i read in my cp
